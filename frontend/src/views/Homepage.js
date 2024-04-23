@@ -5,15 +5,13 @@ function Homepage() {
     <div>
       <>
   <main role="madin" style={{ marginTop: 50 }}>
-    {/* Main jumbotron for a primary marketing message or call to action */}
     <div className="jumbotron">
       <div className="container">
         <h1 className="display-3">Hello, world!</h1>
         <p>
-          This is a template for a simple marketing or informational website. It
-          includes a large callout called a jumbotron and three supporting
-          pieces of content. Use it as a starting point to create something more
-          unique.
+        A todo list is a written or digital list of tasks that must be completed. 
+        It helps people to prioritize duties in order to achieve their objectives and stay on top of their responsibilities.
+         To do lists can be simple or complex, and they can even include notes, categories, and deadlines
         </p>
         <p>
           <a className="btn btn-primary btn-lg" href="#" role="button">
@@ -70,10 +68,10 @@ function Homepage() {
       </div>
       <hr />
     </div>{" "}
-    {/* /container */}
+   
   </main>
   <footer className="container">
-    <p>© Company 2017-2018</p>
+    <p>©2024</p>
   </footer>
 </>
 
